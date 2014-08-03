@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UIButton</string>
+    <string name="press_me_1">Press Me!</string>
+    <string name="press_me_2">Press me 2!</string>
+</resources>

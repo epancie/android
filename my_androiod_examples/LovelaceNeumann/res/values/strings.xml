@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">LovelaceNeumann</string>
+    <string name="action_settings">Settings</string>
+    <string name="Ada_Lovelace">Ada Lovelace</string>
+    <string name="caption_ada">Augusta Ada King, Countess of Lovelace (10 December 1815 – 27 November 1852), born Augusta Ada Byron 
+	and now commonly known as Ada Lovelace, was an English mathematician and writer chiefly known for her work
+	on Charles Babbage\'s early mechanical general-purpose computer, the Analytical Engine. Her notes on the engine
+	include what is recognised as the first algorithm intended to be carried out by a machine. 
+	Because of this, she is often described as the worlds first computer programmer.</string>
+    <string name="picture_of_ada_lovelace">Picture of Ada LoveLace</string>
+    <string name="John_Von_Neumann">John Von Neumann</string>
+    <string name="picture_of_Johon_von_neumann">Picture of Johon Von Neumann</string>
+    <string name="caption_jhon">
+    John von Neumann (December 28, 1903 – February 8, 1957) was a Hungarian-American pure and applied mathematician and polymath.
+	He made major contributions to a number of fields,including mathematics (foundations of mathematics, functional analysis, 
+	ergodic theory, geometry, topology, and numerical analysis), physics (quantum mechanics, hydrodynamics, and fluid dynamics), 
+	economics (game theory), computer science (Von Neumann architecture, linear programming, self-replicating machines, 
+	stochastic computing), and statistics.He was a pioneer of the application of operator theory to quantum mechanics, 
+	in the development of functional analysis, a principal member of the Manhattan Project and the Institute for Advanced Study 
+	in Princeton (as one of the few originally appointed), and a key figure in the development of game theory and the concepts of 
+	cellular automata,[1] the universal constructor, and the digital computer.</string>
+    
+</resources>

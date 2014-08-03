@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="course.labs.fragmentslab.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="course.examples.UI.Button.R.id"/>
+<fullyQualifiedTypeName name="android.view.InflateException"/>
+<fullyQualifiedTypeName name="java.util.zip.Inflater"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.AddToDoActivity"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoManagerActivity"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoItem"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.id"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.layout"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="android.app.PendingIntent"/>
+<fullyQualifiedTypeName name="android.media.SoundPool"/>
+<fullyQualifiedTypeName name="android.media.SoundPool.OnLoadCompleteListener"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="course.labs.GraphicsLab.BubbleActivity.BubbleView"/>
+<fullyQualifiedTypeName name="course.labs.locationlab.PlaceViewAdapter"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="course.labs.locationlab.PlaceDownloaderTask"/>
+<fullyQualifiedTypeName name="android.location.Location"/>
+<fullyQualifiedTypeName name="org.apache.http.impl.client.DefaultHttpClient"/>
+<fullyQualifiedTypeName name="org.apache.http.HttpHost"/>
+<fullyQualifiedTypeName name="org.apache.http.conn.params.ConnRouteParams"/>
+</qualifiedTypeNameHistroy>

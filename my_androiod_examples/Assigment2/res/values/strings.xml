@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assigment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_uof_iat_nasa">UofIatNasa</string>
+    <string name="title_activity_roud_ball">RoudBall</string>
+    <string name="title_activity_jabberwocky">Jabberwocky</string>
+    <string name="wikipedia">wikipedia</string>
+    <string name="picture">picture</string>
+    <string name="title_activity_piture_of_jabberwocky">PitureOfJabberwocky</string>
+    <string name="title_activity_picture">Picture</string>
+
+</resources>

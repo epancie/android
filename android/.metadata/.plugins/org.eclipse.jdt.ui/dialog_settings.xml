@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="week3-Intent-Permssions-Fragment"/>
+		<item value="week8-ContentProvider"/>
+		<item value="week8-DataManagement"/>
+		<item value="week7-lab"/>
+		<item value="week7-sensors"/>
+	</list>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="false" key="group_libraries"/>
+		<item value="false" key="linkWithEditor"/>
+		<item value="2" key="layout"/>
+		<item value="2" key="rootMode"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer configured=&quot;true&quot; group_libraries=&quot;0&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;2&quot; sortWorkingSets=&quot;false&quot; workingSetName=&quot;Aggregate for window 1392938683752&quot;&gt;&#x0D;&#x0A;&lt;localWorkingSetManager&gt;&#x0D;&#x0A;&lt;workingSet editPageId=&quot;org.eclipse.jdt.internal.ui.OthersWorkingSet&quot; factoryID=&quot;org.eclipse.ui.internal.WorkingSetFactory&quot; id=&quot;1392940197260_17&quot; label=&quot;Other Projects&quot; name=&quot;Other Projects&quot;&gt;&#x0D;&#x0A;&lt;item elementID=&quot;=ContentProviderLabContentProvider&quot; factoryID=&quot;org.eclipse.jdt.ui.PersistableJavaElementFactory&quot;/&gt;&#x0D;&#x0A;&lt;item elementID=&quot;=ContentProviderLabTest&quot; factoryID=&quot;org.eclipse.jdt.ui.PersistableJavaElementFactory&quot;/&gt;&#x0D;&#x0A;&lt;item elementID=&quot;=ContentProviderLabUser&quot; factoryID=&quot;org.eclipse.jdt.ui.PersistableJavaElementFactory&quot;/&gt;&#x0D;&#x0A;&lt;/workingSet&gt;&#x0D;&#x0A;&lt;/localWorkingSetManager&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;Other Projects&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week3-Intent-Permssions-Fragment&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week4-UI&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week5-Notifications&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week5-lab&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week5-Bcast&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week5-Networking&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week5-Threading&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week6-Graphics&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week6-TouchAndGestures&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week6-Multimedia&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week6-lab&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week7-sensors&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week7-lab&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week8-DataManagement&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week8-ContentProvider&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;week8-Services&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;Other Projects&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week3-Intent-Permssions-Fragment&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week4-UI&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week5-Notifications&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week5-lab&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week5-Bcast&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week5-Networking&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week5-Threading&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week6-Graphics&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week6-TouchAndGestures&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week6-Multimedia&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week6-lab&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week7-sensors&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week7-lab&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week8-DataManagement&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week8-ContentProvider&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week8-Services&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;week8-lab&quot;/&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="724" key="size.x"/>
+		<item value="383" key="size.y"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="400" key="height"/>
+		<item value="600" key="width"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="11" key="INCLUDE_MASK"/>
+		<item value="0" key="HISTORY_SIZE"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+		<item value="false" key="updateSimilarElements"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="WorkingSetModelAwareSelectionDialog">
+		<item value="true" key="ShowVisibleOnly"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="350" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="306" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+	</section>
+</section>

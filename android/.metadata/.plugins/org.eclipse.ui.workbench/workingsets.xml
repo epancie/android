@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392752576222_9" label="week4-UI" name="week4-UI">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InflateUIView" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GridLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AlertDialogActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GalleryActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckBoxActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ListViewActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ButtonActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LinearLayoutActivity" type="4"/>
+<item elementID="=UILabsTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RelativeLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpinnerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DatePickerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GoogleMapActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UILabs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAndroidWithMenuActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RatingsBarActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TableLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/WebViewActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ToggleButtonActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TabLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TimePickerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RadioGroupActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AutoCompleteActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/QuoteViewerActivity" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392769860197_11" label="week3-Intent-Permssions-Fragment" name="week3-Intent-Permssions-Fragment">
+<item elementID="=FragmentsLabTestTablet" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FragmentsLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CheckBoxActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=QuoteViewerActivity1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=APPPanchonetCVPLAY" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FragmentsLabTestPhone" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DangerousApp" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PermissionsLabTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PermissionsLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393451470920_25" label="week5-Notifications" name="week5-Notifications">
+<item elementID="=NotificationToastActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NotificationStatusBarWithCustomViewActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NotificationStatusBarActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393777260688_27" label="week5-lab" name="week5-lab">
+<item elementID="=NotificationsLabTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NotificationsLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393778303040_28" label="week5-Bcast" name="week5-Bcast">
+<item elementID="=CompoundOrderedBroadcast" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CompoundBroadcast" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CompoundOrderedBroadcastWithResultReceiver" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394042057116_31" label="week5-Networking" name="week5-Networking">
+<item elementID="=NetworkingAndroidHttpClientActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MainActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NetworkingURLActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NetworkingSocketsActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394042493110_32" label="week5-Threading" name="week5-Threading">
+<item elementID="=SimpleThreadingExample" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HandlerMessagesActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HandlerRunnableActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AsyncTaskActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SimpleThreadingViewPostActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394052451771_33" label="week6-Graphics" name="week6-Graphics">
+<item elementID="=ShapeDrawActivityXML" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BubbleActivityStatic" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GraphicsViewPropertyAnimatorActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BubbleCanvasBubble" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BubbleActivityWithSurface" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GraphicsFrameAnimationActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GraphicsTweenAnimationActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ShapeDrawActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ValueAnimatorActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GraphicsPaintActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=TransitionDrawableActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394385994796_38" label="week6-TouchAndGestures" name="week6-TouchAndGestures">
+<item elementID="=IndicateTouchLocationActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GesturesActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ViewFlipperTestActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394405008908_39" label="week6-Multimedia" name="week6-Multimedia">
+<item elementID="=AudioVideoVideoPlayActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AudioVideoRingtoneManagerActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AudioVideoAudioManagerActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AudioRecordingActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AudioVideoCameraActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394415262878_40" label="week6-lab" name="week6-lab">
+<item elementID="=GraphicsLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GraphicsLabTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394922859053_53" label="week7-sensors" name="week7-sensors">
+<item elementID="=CompassActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=LocationGetLocationActivity.old" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=google-play-services_lib" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MapsEarthquakeMapActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=LocationGetLocationActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SensorFilteredValuesActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SensorRawAccelerometerActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394996957267_54" label="week7-lab" name="week7-lab">
+<item elementID="=LocationLabTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=LocationLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395353303967_65" label="week8-DataManagement" name="week8-DataManagement">
+<item elementID="=InternalFileWriteReadActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DatabaseExampleActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ExternalFileWriteReadActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SharedPreferenceReadWriteActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PreferencesActivityExample" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395353323078_66" label="week8-ContentProvider" name="week8-ContentProvider">
+<item elementID="=ContentProviderCustom" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CustomContactProviderDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=InsertActivity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ContentProviderWithCursorLoader" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ContactsListSimpleExample" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395353357548_67" label="week8-Services" name="week8-Services">
+<item elementID="=LoggingServiceClient" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=LoggingServiceWithMessenger" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ServiceWithIPCExampleServiceClient" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=LoggingServiceClientStandAlone" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ServiceWithIPCExampleService" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395711170941_75" label="week8-lab" name="week8-lab">
+<item elementID="=ContentProviderLabUser" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ContentProviderLabTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ContentProviderLabContentProvider" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392495556902_0" label="Window Working Set" name="Aggregate for window 1392495556901"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392499435533_1" label="Window Working Set" name="Aggregate for window 1392499435533"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392503932158_2" label="Window Working Set" name="Aggregate for window 1392503932158"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392516405915_3" label="Window Working Set" name="Aggregate for window 1392516405914"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392517707414_4" label="Window Working Set" name="Aggregate for window 1392517707414"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392518079669_5" label="Window Working Set" name="Aggregate for window 1392518079669"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392518286436_6" label="Window Working Set" name="Aggregate for window 1392518286436"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392518566497_7" label="Window Working Set" name="Aggregate for window 1392518566497"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392676479142_8" label="Window Working Set" name="Aggregate for window 1392676479142"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392753785933_10" label="Window Working Set" name="Aggregate for window 1392753785933"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392863708786_13" label="Window Working Set" name="Aggregate for window 1392863708786"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392913604518_13" label="Window Working Set" name="Aggregate for window 1392913604518"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392913692012_14" label="Window Working Set" name="Aggregate for window 1392913692012"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392938683752_15" label="Window Working Set" name="Aggregate for window 1392938683752"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392938722244_16" label="Multiple Working Sets" name="Aggregate:week3-Intent-Permssions-Fragment:week4-UI:">
+<workingSet IMemento.internal.id="week3-Intent-Permssions-Fragment"/>
+<workingSet IMemento.internal.id="week4-UI"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393200250031_18" label="Window Working Set" name="Aggregate for window 1393200250031"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393258204152_19" label="Window Working Set" name="Aggregate for window 1393258204152"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393451030093_20" label="Window Working Set" name="Aggregate for window 1393451030093"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393553285055_22" label="Window Working Set" name="Aggregate for window 1393553285055"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393696245195_23" label="Window Working Set" name="Aggregate for window 1393696245195"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393698787186_24" label="Window Working Set" name="Aggregate for window 1393698787186"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393699464644_25" label="Window Working Set" name="Aggregate for window 1393699464644"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393775629297_26" label="Window Working Set" name="Aggregate for window 1393775629297"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393805215618_29" label="Window Working Set" name="Aggregate for window 1393805215617"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393805292399_30" label="Window Working Set" name="Aggregate for window 1393805292398"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394079265478_34" label="Window Working Set" name="Aggregate for window 1394079265478"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394081575682_35" label="Window Working Set" name="Aggregate for window 1394081575682"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394144849140_36" label="Window Working Set" name="Aggregate for window 1394144849140"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394246186724_37" label="Window Working Set" name="Aggregate for window 1394246186724"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394761464215_41" label="Window Working Set" name="Aggregate for window 1394761464215"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394839493139_42" label="Window Working Set" name="Aggregate for window 1394839493139"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394842541164_43" label="Window Working Set" name="Aggregate for window 1394842541164"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394846318359_44" label="Window Working Set" name="Aggregate for window 1394846318358"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394853080274_45" label="Window Working Set" name="Aggregate for window 1394853080274"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394855164100_45" label="Window Working Set" name="Aggregate for window 1394855164100"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394855488709_46" label="Window Working Set" name="Aggregate for window 1394855488709"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394856036551_47" label="Window Working Set" name="Aggregate for window 1394856036551"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394861913074_48" label="Window Working Set" name="Aggregate for window 1394861913074"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394886963589_49" label="Window Working Set" name="Aggregate for window 1394886963589"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394895544155_50" label="Window Working Set" name="Aggregate for window 1394895544155"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394897389150_52" label="Window Working Set" name="Aggregate for window 1394897389150"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395002853308_55" label="Window Working Set" name="Aggregate for window 1395002853307"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395004534585_56" label="Window Working Set" name="Aggregate for window 1395004534585"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395009144079_57" label="Window Working Set" name="Aggregate for window 1395009144079"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395027763451_58" label="Window Working Set" name="Aggregate for window 1395027763451"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395028150898_59" label="Window Working Set" name="Aggregate for window 1395028150897"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395028336024_59" label="Window Working Set" name="Aggregate for window 1395028336024"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395028502511_60" label="Window Working Set" name="Aggregate for window 1395028502511"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395168893659_61" label="Window Working Set" name="Aggregate for window 1395168893659"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395169919679_62" label="Window Working Set" name="Aggregate for window 1395169919679"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395353085209_63" label="Window Working Set" name="Aggregate for window 1395353085209"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395451792903_68" label="Window Working Set" name="Aggregate for window 1395451792903"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395452247274_69" label="Window Working Set" name="Aggregate for window 1395452247274"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395506652429_70" label="Window Working Set" name="Aggregate for window 1395506652429"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395507188493_71" label="Window Working Set" name="Aggregate for window 1395507188493"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395585388758_72" label="Window Working Set" name="Aggregate for window 1395585388758"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395586631028_73" label="Window Working Set" name="Aggregate for window 1395586631028"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395604718295_74" label="Window Working Set" name="Aggregate for window 1395604718295"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401202537344_76" label="Window Working Set" name="Aggregate for window 1401202537344"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401202735684_77" label="Window Working Set" name="Aggregate for window 1401202735684"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401202820006_78" label="Window Working Set" name="Aggregate for window 1401202820006"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401205522914_79" label="Window Working Set" name="Aggregate for window 1401205522914"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401220335500_80" label="Window Working Set" name="Aggregate for window 1401220335500"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401311887261_81" label="Window Working Set" name="Aggregate for window 1401311887261"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402450546686_82" label="Window Working Set" name="Aggregate for window 1402450546686"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402489874197_83" label="Window Working Set" name="Aggregate for window 1402489874197"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1403203852421_84" label="Window Working Set" name="Aggregate for window 1403203852421"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1404486719582_85" label="Window Working Set" name="Aggregate for window 1404486719581"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1406148010790_86" label="Window Working Set" name="Aggregate for window 1406148010790"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1407015010492_87" label="Window Working Set" name="Aggregate for window 1407015010492"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1407024818406_88" label="Window Working Set" name="Aggregate for window 1407024818406"/>
+<mruList name="week3-Intent-Permssions-Fragment"/>
+<mruList name="week5-Bcast"/>
+<mruList name="week4-UI"/>
+</workingSetManager>
