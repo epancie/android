@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_simple_fragment">SimpleFragmentActivity</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_multiple_fragment">MultipleFragmentActivity</string>
+    <string name="s_tesispicture">Tesis Picture</string>
+    <string name="s_clickme_multifragment_other">Click Me Multi Other</string>
+
+</resources>
